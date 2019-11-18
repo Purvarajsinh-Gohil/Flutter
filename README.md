@@ -15,10 +15,14 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+<p float="left">
+
  <img src="screenshots/Screenshot_1574061771.png" height="400" alt="Screenshot"/> 
  <img src="screenshots/Screenshot_1574061775.png" height="400" alt="Screenshot"/>
-  <img src="screenshots/Screenshot_1574061780.png" height="400" alt="Screenshot"/>
+ <img src="screenshots/Screenshot_1574061780.png" height="400" alt="Screenshot"/>
  <img src="screenshots/Screenshot_1574061785.png" height="400" alt="Screenshot"/>
  <img src="screenshots/Screenshot_1574061792.png" height="400" alt="Screenshot"/>
+
+ </p>
 
 
